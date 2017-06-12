@@ -3,7 +3,7 @@ $schemaver: 1.1
 name: Test-Repo
 type: Command-line App
 aliases:
-short_description: Test-Repo for meta Data
+short_description: 'These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168'
 assignment_group: gro:AV-Clerks
 notes: 
 maintained_by:
